@@ -23,7 +23,7 @@ AssessORFData has data for 20 strains and their IDs (within the package) are lis
 AssessORFData::GetStrainIDs()
 ```
 
-For each strain, there are 5 objects 1 mapping object and 4 results objects. The 4 results objects per strain differ in that for each one, the set of predicted came from a different program or database. The same 4 gene sources were used for all 20 strains, and their IDs (within the package) are listed below:
+For each strain, there are 5 objects: 1 mapping object and 4 results objects. The 4 results objects per strain differ in that for each one, the set of predicted genes came from a different program or database. The same 4 gene sources were used for all 20 strains, and their IDs (within the package) are listed below:
 
 ```{r}
 AssessORFData::GetGeneSources()
