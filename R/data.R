@@ -881,11 +881,11 @@ NULL
 #' EGD_e_PreSaved_ResultsObj_Prodigal
 #'
 #' @title \code{Assessment} Objects for
-#' \emph{Listeria monocytogenes} strain EGD_e
+#' \emph{Listeria monocytogenes} strain EGD-e
 #'
 #' @description Objects of class \code{Assessment} and either
 #' subclass \code{DataMap} or subclass \code{Results} for
-#' \emph{Listeria monocytogenes} strain EGD_e
+#' \emph{Listeria monocytogenes} strain EGD-e
 #'
 #' @format All 5 objects have a list structure. For specifics on what the two
 #' types of \code{Assessment} objects contain, please see the \pkg{AssessORF}
@@ -1072,11 +1072,11 @@ NULL
 #' Houston_1_PreSaved_ResultsObj_Prodigal
 #'
 #' @title \code{Assessment} Objects for
-#' \emph{Bartonella henselae} strain Houston_1
+#' \emph{Bartonella henselae} strain Houston-1
 #'
 #' @description Objects of class \code{Assessment} and either
 #' subclass \code{DataMap} or subclass \code{Results} for
-#' \emph{Bartonella henselae} strain Houston_1
+#' \emph{Bartonella henselae} strain Houston-1
 #'
 #' @format All 5 objects have a list structure. For specifics on what the two
 #' types of \code{Assessment} objects contain, please see the \pkg{AssessORF}

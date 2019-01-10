@@ -9,7 +9,7 @@
 \alias{Houston_1_PreSaved_ResultsObj_Glimmer}
 \alias{Houston_1_PreSaved_ResultsObj_Prodigal}
 \title{\code{Assessment} Objects for
-\emph{Bartonella henselae} strain Houston_1}
+\emph{Bartonella henselae} strain Houston-1}
 \format{All 5 objects have a list structure. For specifics on what the two
 types of \code{Assessment} objects contain, please see the \pkg{AssessORF}
 package.}
@@ -30,7 +30,7 @@ data(Houston_1_PreSaved_ResultsObj_Prodigal)
 \description{
 Objects of class \code{Assessment} and either
 subclass \code{DataMap} or subclass \code{Results} for
-\emph{Bartonella henselae} strain Houston_1
+\emph{Bartonella henselae} strain Houston-1
 }
 \details{
 'Houston_1_PreSaved_DataMapObj' is an object of subclass \code{DataMap}.

@@ -9,7 +9,7 @@
 \alias{EGD_e_PreSaved_ResultsObj_Glimmer}
 \alias{EGD_e_PreSaved_ResultsObj_Prodigal}
 \title{\code{Assessment} Objects for
-\emph{Listeria monocytogenes} strain EGD_e}
+\emph{Listeria monocytogenes} strain EGD-e}
 \format{All 5 objects have a list structure. For specifics on what the two
 types of \code{Assessment} objects contain, please see the \pkg{AssessORF}
 package.}
@@ -30,7 +30,7 @@ data(EGD_e_PreSaved_ResultsObj_Prodigal)
 \description{
 Objects of class \code{Assessment} and either
 subclass \code{DataMap} or subclass \code{Results} for
-\emph{Listeria monocytogenes} strain EGD_e
+\emph{Listeria monocytogenes} strain EGD-e
 }
 \details{
 'EGD_e_PreSaved_DataMapObj' is an object of subclass \code{DataMap}.
