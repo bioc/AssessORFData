@@ -1,7 +1,7 @@
 Package: AssessORFData
 Type: Package
 Title: Data and Files for the AssessORF Package
-Version: 1.26.0
+Version: 1.27.0
 Date: 2019-04-07
 Authors@R: c(
     person("Deepank", "Korandla", email = "dkorandl@alumni.cmu.edu", role = "aut"),
